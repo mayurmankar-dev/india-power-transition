@@ -1,0 +1,10 @@
+metric,This model: Current policy,NITI CPS,This model: net-zero demand,NITI NZS
+Solar capacity 2050 (GW),1515.61,1537.0,2354.12,2441.6
+Wind capacity 2050 (GW),451.49,437.25,735.62,743.92
+Battery storage 2050 (GW),452.1,470.0,997.47,1025.0
+"Grid intensity 2050, Ember basis (gCO2/kWh; NITI rescaled)",299.32,286.93,208.39,224.82
+"Investment 2025-2050, generation (USD tn)",1.51,1.77,2.21,2.4
+"Investment 2025-2050, storage (USD tn)",0.43,0.6,0.93,1.32
+"Investment 2025-2050, T&D (USD tn)",1.4,1.21,2.09,1.43
+"Investment 2025-2050, total (USD tn)",3.35,3.58,5.23,5.15
+New coal capacity 2025-2045 (GW),133.64,240.0,,

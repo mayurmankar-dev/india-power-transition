@@ -1,0 +1,5 @@
+scenario,VRE additions 2030 (GW/yr),VRE additions 2050 (GW/yr),Non-fossil capacity 2030 (GW),Solar capacity 2050 (GW),Wind capacity 2050 (GW),Coal generation 2050 (TWh),Coal share 2050,New coal 2025-2050 (GW),CO2 2050 (Mt),Cumulative CO2 2025-2050 (Gt),Grid intensity 2050 (gCO2/kWh),"Investment 2025-2050, generation (USD tn)","Investment 2025-2050, storage (USD tn)","Investment 2025-2050, T&D (USD tn)","Investment 2025-2050, total (USD tn)",Years above NITI build-rate limits,First year above limits
+Slower transition,18.844,18.844,356.139,517.632,118.327,5124.691,0.716,680.956,4275.176,59.616,597.2,1.415,0.156,1.13,2.701,0,
+Current policy,46.67,108.993,476.356,1515.61,451.487,2398.164,0.335,202.114,2142.76,39.583,299.323,1.513,0.435,1.4,3.348,4,2036.0
+Accelerated renewables,50.067,123.712,502.426,1645.961,519.849,1574.914,0.22,57.532,1486.705,32.343,207.678,1.537,0.668,1.449,3.653,7,2034.0
+Sensitivity: net-zero electrification demand,65.86,192.151,557.703,2354.118,735.615,2105.843,0.22,150.776,1994.678,36.935,208.386,2.208,0.933,2.086,5.228,21,2030.0
